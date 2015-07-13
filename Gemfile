@@ -4,4 +4,4 @@ gem 'sinatra'
 gem 'thin'
 gem 'RedCloth'
 gem 'jekyll'
-
+gem 'iconv'
